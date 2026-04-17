@@ -1,5 +1,6 @@
 Lighthouse Performance Audit
 Assignment - Week 9
+
 Test site: https://raider-test-site.onrender.com/ 
 
 This assignment runs automated Lighthouse (Node.js)to programmatically audit website performance and accessibility.
