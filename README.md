@@ -42,7 +42,7 @@ Note
 
 Some runs may show: "Warning: Chrome temp cleanup failed with EPERM but does not affect results.
 
-FEATURES IMPLEMENTED
+Features Implemented
 
 - Programmatic Lighthouse audits
 - Multiple URL testing
