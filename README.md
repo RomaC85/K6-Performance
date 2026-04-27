@@ -20,7 +20,7 @@ Test Configuration
 
 Thresholds
 
-- Performance ≥ 6o
+- Performance ≥ 60
 - Accesibility ≥ 80
 
 Output File
